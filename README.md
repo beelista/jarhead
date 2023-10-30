@@ -1,6 +1,6 @@
 # Jarhead BETA
 
-Jarhead is an Elden Ring companion bot made for Discord, designed to server as an interactive online encyclopedia that guides fellow Tarnished
+Jarhead is an Elden Ring companion bot made for Discord, designed to serve as an interactive online encyclopedia that guides fellow Tarnished
 
 **Features:**
 - Cruise through the following aspects of the game:
