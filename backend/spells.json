@@ -1,0 +1,117 @@
+{
+    "Glintstone Sorceries": {
+        "contents": [
+            "Glintstone Pebble",
+            "Great Glinstone Shard",
+            "Swift Glintstone Shard",
+            "Comet",
+            "Glinstone Cometshard",
+            "Glinstone Stars",
+            "Star Shower",
+            "Glintstone Arc",
+            "Shard Spiral",
+            "Cannon of Haima",
+            "Gavel of Haima",
+            "Crystal Burst",
+            "Crystal Barrage",
+            "Shatter Earth",
+            "Rock Blaster",
+            "Scholar's Armament",
+            "Scholar's Shield",
+            "Starlight",
+            "Thops's Barrier",
+            "Terra Magica"
+        ]
+    },
+    "Carian Sorceries": {
+        "contents": [
+            "Magic Glintblade",
+            "Carian Slicer",
+            "Carian Greatsword",
+            "Carian Piercer",
+            "Greatblade Phalanx",
+            "Glintblade Phalanx",
+            "Carian Phalanx",
+            "Lucidity",
+            "Carian Retaliation",
+            "Magic Downpour"
+        ]
+    },
+    "Loretta's Sorceries": {
+        "contents": [
+            "Loretta's Greatbow",
+            "Loretta's Mastery"
+        ]
+    },
+    "Moon Sorceries": {
+        "contents": [
+            "Rennala's Full Moon",
+            "Ranni's Dark Moon"
+        ]
+    },
+    "Snow Witch Sorceries": {
+        "contents": [
+            "Glinstone Icerag",
+            "Adula's Moonblade",
+            "Frozen Armament",
+            "Freezing Mist",
+            "Zamor Ice Storm"
+        ]
+    },
+    "Gravity Sorceries": {
+        "contents": [
+            "Rock Sling",
+            "Meteorite",
+            "Meteorite of Astel",
+            "Gravity Well",
+            "Collapsing Stars"
+        ]
+    },
+    "Night Sorceries": {
+        "contents": [
+            "Night Shard",
+            "Ambush Shard",
+            "Night Comet",
+            "Unseen Blade",
+            "Unseen Form",
+            "Eternal Darkness",
+            "Night Maiden's Mist"
+        ]
+    },
+    "Primeval Sorceries": {
+        "contents": [
+            "Comet Azur",
+            "Stars of Ruin",
+            "Founding Rain of Stars"
+        ]
+    },
+    "Abberant Sorceries": {
+        "contents": [
+            "Briars of Sin",
+            "Briars of Punishment"
+        ]
+    },
+    "Magma Sorceries": {
+        "contents": [
+            "Magma Shot",
+            "Roiling Magma",
+            "Gelmir's Fury",
+            "Rykard's Rancor"
+        ]
+    },
+    "Claymen Sorceries": {
+        "contents": [
+            "Oracle Bubbles",
+            "Great Oracular Bubble"
+        ]
+    },
+    "Death Sorceries": {
+        "contents": [
+            "Rancorcall",
+            "Ancient Death of Rancor",
+            "Explosive Ghostflame",
+            "Fia's Mist",
+            "Tibia's Summons"
+        ]
+    }
+}

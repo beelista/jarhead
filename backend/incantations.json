@@ -1,0 +1,151 @@
+{
+    "Two Fingers Incantations": {
+        "contents": [
+            "Urgent Heal",
+            "Heal",
+            "Great Heal",
+            "Lord's Heal",
+            "Rejection",
+            "Flame Fortification",
+            "Lightning Fortification",
+            "Magic Fortification",
+            "Divine Fortification",
+            "Lord's Divine Fortification",
+            "Cure Poison",
+            "Lord's Aid",
+            "Shadow Bait",
+            "Darkness",
+            "Assassin's Approach"
+        ]
+    },
+    "Golden Order Incantations": {
+        "contents": [
+            "Discus of Light",
+            "Triple Rings of Light",
+            "Radagon's Rings of Light",
+            "Law of Causality",
+            "Law of Regression",
+            "Litany of Proper Death",
+            "Immutable Shield",
+            "Order Healing",
+            "Order's Blade"
+        ]
+    },
+    "Erdtree Incantations": {
+        "contents": [
+            "Blessing's Boon",
+            "Blessing of the Erdtree",
+            "Protection of the Erdtree",
+            "Golden Lightning Fortification",
+            "Barrier of Gold",
+            "Golden Vow",
+            "Erdtree Heal",
+            "Wrath of Gold",
+            "Black Blade",
+            "Elden Stars",
+            "Aspects of the Crucible: Breath",
+            "Aspects of the Crucible: Horns",
+            "Aspects of the Crucible: Tail"
+        ]
+    },
+    "Dragon Cult Incantations": {
+        "contents": [
+            "Lightning Spear",
+            "Honed Bolt",
+            "Lightning Strike",
+            "Electrify Armament",
+            "Dragonbolt Blessing",
+            "Vyke's Dragonbolt",
+            "Ancient Dragons' Lightning Spear",
+            "Ancient Dragons' Lightning Strike",
+            "Fortissax's Lightning Spear",
+            "Lansseax's Glaive",
+            "Death Lightning",
+            "Frozen Lightning Spear"
+        ]
+    },
+    "Dragon Communion Incantations": {
+        "contents": [
+            "Dragonfire",
+            "Agheel's Flame",
+            "Glinstone Breath",
+            "Smarag's Glinstone Breath",
+            "Dragonice",
+            "Borealis's Mist",
+            "Rotten Breath",
+            "Ekzykes's Decay",
+            "Magma Breath",
+            "Theodorix's Magma",
+            "Dragonclaw",
+            "Dragonmaw",
+            "Greoyll's Roar",
+            "Placidusax's Ruin"
+        ]
+    },
+    "Fire Monk Incantations": {
+        "contents": [
+            "Catch Flame",
+            "O, Flame!",
+            "Surge, O Flame!",
+            "Whirl, O Flame!",
+            "Fire's Deadly Sin",
+            "Flame Sling",
+            "Flame, Cleanse Me",
+            "Flame, Grant Me Strength",
+            "Flame, Protect Me"
+        ]
+    },
+    "Fire Giant Incantations": {
+        "contents": [
+            "Flame of the Fell God",
+            "Giantsflame Take Thee",
+            "Burn, O Flame!",
+            "Flame, Fall Upon Them"
+        ]
+    },
+    "Frenzied Flame Incantations": {
+        "contents": [
+            "The Flame of Frenzy",
+            "Unendurable Frenzy",
+            "Frenzied Burst",
+            "Inescapable Frenzy",
+            "Howl of Shabriri"
+        ]
+    },
+    "Godskin Incantations": {
+        "contents": [
+            "Black Flame",
+            "Scouring Black Flame",
+            "Black Flame Ritual",
+            "Black Flame Blade",
+            "Noble Presence",
+            "Black Flame's Protection"
+        ]
+    },
+    "Bestial Incantations": {
+        "contents": [
+            "Bestial Sling",
+            "Beast Claw",
+            "Gurranq's Beast Claw",
+            "Stone of Gurranq",
+            "Bestial Vitality",
+            "Bestial Constitution"
+        ]
+    },
+    "Blood Incantations": {
+        "contents": [
+            "Bloodboon",
+            "Swarm of Flies",
+            "Bloodflame Talons",
+            "Bloodflame Blade"
+        ]
+    },
+    "Servants of Rot Incantations": {
+        "contents": [
+            "Pest Threads",
+            "Poison Mist",
+            "Poison Armament",
+            "Scarlet Aeonia"
+        ]
+    }
+}

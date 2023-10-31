@@ -12,6 +12,8 @@ async def on_ready():
     await client.load_extension('cogs.bosses')
     await client.load_extension('cogs.weapons')
     await client.load_extension('cogs.ashes')
+    await client.load_extension('cogs.spells')
+    await client.load_extension('cogs.incantations')
 
 @client.command(name='jarhead')
 async def jarhead(ctx):
@@ -19,10 +21,9 @@ async def jarhead(ctx):
     description += "**!bosses** - Gather info about different bosses.\n"
     description += "**!weapons** - Explore various weapons and weapon types.\n"
     description += "**!ashes** - See the Ashes of War available to you.\n"
-    description += "**!talismans** - Try out what talismans suit your build the best.\n"
     description += "**!spells** - Learn about different spells.\n"
     description += "**!incantations** - Check out these incantations.\n"
-    description += "**!flasks** - Discover all Golden Seed, Sacred Tear and Physick Tear locations.\n"
+    description += "**!flasks** - Discover Golden Seeds, Sacred Tears and Physick Tears.\n"
     description += "**!armour** - Look dapper on your adventure."
 
     embed = discord.Embed(
