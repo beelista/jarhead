@@ -1,0 +1,144 @@
+{
+    "Standard": {
+        "contents": [
+            "Parry",
+            "No Skill",
+            "Mighty Shot",
+            "Barrage",
+            "Enchanted Shot",
+            "Sky Shot",
+            "Through and Through",
+            "Rain of Arrows",
+            "Shield Crash",
+            "Storm Wall",
+            "Barricade Shield",
+            "Shield Bash"
+        ]
+    },
+    "Heavy": {
+        "contents": [
+            "Stamp (Sweep)",
+            "Stamp (Upward Cut)",
+            "War Cry",
+            "Wild Strikes",
+            "Lion's Claw",
+            "Cragblade",
+            "Barbaric Roar",
+            "Troll's Roar",
+            "Earthshaker",
+            "Braggart's Roar",
+            "Kick",
+            "Endure",
+            "Ground Slam",
+            "Horoah Loux's Earthshaker"
+        ]
+    },
+    "Keen": {
+        "contents": [
+            "Repeating Thrust",
+            "Unsheathe",
+            "Impaling Thrust",
+            "Spinnning Slash",
+            "Sword Dance",
+            "Double Slash",
+            "Piercing Fang",
+            "Quickstep",
+            "Bloodhound's Step",
+            "Raptor of the Mists",
+            "Beast's Roar"
+        ]
+    },
+    "Quality": {
+        "contents": [
+            "Storm Blade",
+            "Storm Assault",
+            "Stormcaller",
+            "Charge Forth",
+            "Square Off",
+            "Giant Hunt",
+            "Vaccum Slice",
+            "Spinning Strikes",
+            "Phantom Slash",
+            "Storm Stomp",
+            "Determination",
+            "Royal Knight's Resolve"
+        ]
+    },
+    "Magic": {
+        "contents": [
+            "Gravitas",
+            "Glintstone Pebble",
+            "Carian Greatsword",
+            "Spinning Weapon",
+            "Carian Grandaur",
+            "Loretta's Slash",
+            "Thops's Barrier",
+            "Glintblade Phalanx",
+            "Carian Retaliation",
+            "Waves of Darkness"
+        ]
+    },
+    "Fire": {
+        "contents": [
+            "Flaming Strike",
+            "Eruption",
+            "Flame of the Redmanes"
+        ]
+    },
+    "Flame": {
+        "contents": [
+            "Prelate's Charge",
+            "Black Flame Tornado"
+        ]
+    },
+    "Lightning": {
+        "contents": [
+            "Lightning Slash",
+            "Lightning Ram",
+            "Thunderbolt"
+        ]
+    },
+    "Sacred": {
+        "contents": [
+            "Prayerful Strike",
+            "Vow of the Indomitable",
+            "Sacred Ring of Light",
+            "Golden Land",
+            "Holy Ground",
+            "Sacred Blade",
+            "Golden Vow",
+            "Sacred Order",
+            "Shared Order",
+            "Golden Slam"
+        ]
+    },
+    "Poison": {
+        "contents": [
+            "Poison Moth Flight",
+            "Poisonous Mist"
+        ]
+    },
+    "Blood": {
+        "contents": [
+            "Bloody Slash",
+            "Blood Blade",
+            "Seppuku",
+            "Blood Tax"
+        ]
+    },
+    "Cold": {
+        "contents": [
+            "Chilling Mist",
+            "Ice Spear",
+            "Hoarfrost Stomp"
+        ]
+    },
+    "Occult": {
+        "contents": [
+            "Spectral Lance",
+            "Lifesteal Fist",
+            "Assassin's Gambit",
+            "White Shadow's Lure"
+        ]
+    }
+}
