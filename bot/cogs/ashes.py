@@ -44,7 +44,7 @@ class AshesCog(commands.Cog):
             color=0xFFE467
         )
 
-        embed.set_thumbnail(url='https://i.imgur.com/L7QDhVx.png')
+        embed.set_thumbnail(url='https://i.imgur.com/QhDre6a.png')
         await ctx.send(embed=embed)
 
 async def setup(client):

@@ -44,7 +44,7 @@ class WeaponsCog(commands.Cog):
             color=0xFFE467
         )
 
-        embed.set_thumbnail(url='https://i.imgur.com/Ffbgmfy.png')
+        embed.set_thumbnail(url='https://i.imgur.com/o33K8Ic.png')
         await ctx.send(embed=embed)
 
 async def setup(client):

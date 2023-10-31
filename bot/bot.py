@@ -8,12 +8,12 @@ client = commands.Bot(command_prefix='!', intents=intents)
 
 @client.event
 async def on_ready():
-    print('Jarhead jacked in')
     await client.load_extension('cogs.bosses')
     await client.load_extension('cogs.weapons')
     await client.load_extension('cogs.ashes')
     await client.load_extension('cogs.spells')
     await client.load_extension('cogs.incantations')
+    print('Jarhead jacked in')
 
 @client.command(name='jarhead')
 async def jarhead(ctx):
@@ -32,7 +32,7 @@ async def jarhead(ctx):
         color=0xFFE467
     )
 
-    embed.set_thumbnail(url='https://i.imgur.com/NxGINpp.png')
+    embed.set_thumbnail(url='https://i.imgur.com/5ixNkoj.png')
 
     await ctx.send(embed=embed)
 

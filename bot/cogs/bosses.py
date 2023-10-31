@@ -51,7 +51,7 @@ class BossCog(commands.Cog):
             color=0xFFE467
         )
 
-        embed.set_thumbnail(url='https://i.imgur.com/yf9ImzL.png')
+        embed.set_thumbnail(url='https://i.imgur.com/Cbr7V0R.png')
         await ctx.send(embed=embed)
 
 async def setup(client):
