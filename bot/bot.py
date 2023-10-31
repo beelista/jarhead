@@ -10,6 +10,7 @@ client = commands.Bot(command_prefix='!', intents=intents)
 async def on_ready():
     print('Jarhead jacked in')
     await client.load_extension('cogs.bosses')
+    await client.load_extension('cogs.weapons')
 
 @client.command(name='jarhead')
 async def jarhead(ctx):

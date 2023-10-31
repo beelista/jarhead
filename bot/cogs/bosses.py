@@ -16,23 +16,17 @@ class BossCog(commands.Cog):
             underworld_locations = []
 
             for location, data in self.boss_data.items():
-                if location.lower() in ['overworld', 'underworld']:
-                    continue
                 if "contents" in data:
                     if location.lower() in ['limgrave', 'weeping peninsula', 'liurnia of the lakes', 'moonlight altar', 'caelid', 'dragonbarrow', 'altus plateau', 'capital outskirts', 'leyndell, royal capital', 'mt. gelmir', 'forbidden lands', 'mountaintops of the giants', 'consecrated snowfield', 'miquella\'s haligtree', 'crumbling farum azula']:
                         overworld_locations.append(location)
                     else:
                         underworld_locations.append(location)
 
-            overworld_locations.sort()
-            underworld_locations.sort()
-
             description = "Welcome to the Boss Catalogue. \nSimply use the command !bosses `location` with your desired location, and I will promptly provide you with information.\n\n"
             description += "**Overworld:**\n"
             description += '\n'.join(overworld_locations) + "\n\n"
             description += "**Underworld:**\n"
             description += '\n'.join(underworld_locations)
-
             title = "Bosses"
 
         else:
@@ -49,7 +43,7 @@ class BossCog(commands.Cog):
                 title = f"Bosses in {location}:"
             else:
                 description = f"Sorry, I couldn't find information for {location_query}."
-                title = "Bosses"
+                title = "Location not found"
 
         embed = discord.Embed(
             title=title,
